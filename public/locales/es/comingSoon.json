@@ -1,0 +1,20 @@
+{
+  "comingSoon": "Próximamente",
+  "pizza": {
+    "title": "Pizza",
+    "description": "La pizza es un plato mundialmente querido originario de Italia, celebrado por su versatilidad y sabores irresistibles. Consiste en una base redonda de masa fermentada, tradicionalmente cubierta con una capa de salsa de tomate, queso derretido y una variedad de ingredientes. Desde opciones clásicas como pepperoni, champiñones y aceitunas hasta opciones creativas como piña, pollo a la barbacoa o alternativas veganas, las pizzas satisfacen diversos paladares. Cocinada a la perfección, su masa puede ser delgada y crujiente o gruesa y esponjosa. A menudo se adereza con hierbas como albahaca u orégano, la pizza es un alimento reconfortante universalmente querido, disfrutado en comidas informales o celebraciones."
+  },
+  "taco": {
+    "title": "Taco",
+    "description": "Los tacos son un plato popular mexicano que consiste en una tortilla, generalmente hecha de maíz o harina, doblada alrededor de una variedad de rellenos. Los rellenos pueden variar desde carnes sazonadas como carne de res, pollo o cerdo, hasta opciones vegetarianas como frijoles, queso y verduras asadas. Los tacos suelen ser cubiertos con ingredientes frescos como lechuga, tomates, cebollas, cilantro y queso, junto con salsa o salsa picante para un sabor adicional. Son versátiles, fáciles de transportar y se pueden disfrutar como un bocadillo rápido o una comida abundante. Los tacos ofrecen un equilibrio de sabores y texturas, lo que los convierte en un plato reconfortante muy querido en todo el mundo."
+  },
+  "shawarma": {
+    "title": "Shawarma",
+    "description": "El shawarma es un plato popular de Oriente Medio hecho con carne sazonada, típicamente cordero, pollo o res, cocinada en un asador vertical. La carne se marina con una mezcla de especias como ajo, comino, cúrcuma y pimentón, dándole un sabor sabroso y profundo. A medida que la carne se cocina, se corta en finas lonjas y se sirve en pan de pita o pan plano, generalmente cubierto con verduras frescas como tomates, pepinos, cebollas y lechuga. El shawarma suele acompañarse de salsas como tahini, salsa de ajo o salsa picante, lo que lo convierte en una comida deliciosa, sabrosa y satisfactoria, disfrutada en todo el mundo."
+  },
+  "friedChicken": {
+    "title": "Pollo Frito",
+    "description": "El pollo frito es un alimento reconfortante popular conocido por su exterior crujiente y dorado y su carne tierna y jugosa por dentro. El pollo suele estar cubierto con una mezcla sazonada de harina o empanizado, luego frito a la perfección. La combinación de especias, hierbas y a veces suero de leche le da un sabor rico y sabroso. Se puede disfrutar como plato principal, a menudo acompañado de guarniciones como puré de papas, ensalada de col o galletas. El pollo frito es un plato querido en todo el mundo, comúnmente asociado con la cocina sureña de los Estados Unidos pero disfrutado en varias formas a través de las culturas, convirtiéndolo en una delicia versátil y tentadora."
+  }
+}
+

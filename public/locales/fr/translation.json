@@ -1,0 +1,25 @@
+{
+  "AppTitle": "Palais du Burger",
+  "CardTitle": "Nos Burgers Célèbres",
+  "card1": {
+    "title": "Burger classique",
+    "description": "Un burger classique avec laitue fraîche, tomates et fromage",
+    "paragraph": "Le burger classique est un favori intemporel, réputé pour sa combinaison simple mais satisfaisante d'ingrédients. Il comporte un steak de bœuf juteux et assaisonné, parfaitement grillé pour sceller ses saveurs naturelles. Niché entre un pain moelleux et grillé, il est typiquement accompagné de laitue croquante, de tranches de tomate mûre, de cornichons croquants et de fines rondelles d’oignon. Une touche de ketchup, de moutarde ou de mayonnaise ajoute une explosion de saveur acidulée. Certaines variations incluent du fromage fondu pour plus de richesse. Que ce soit dans un diner, un barbecue ou un fast-food, le burger classique est un plat réconfortant universellement adoré qui incarne la simplicité délicieuse."
+  },
+  "card2": {
+    "title": "Burger au fromage",
+    "description": "Un délice au fromage avec du fromage fondu et des galettes juteuses",
+    "paragraph": "Un cheeseburger est un sandwich classique et savoureux qui associe un steak de bœuf juteux à une tranche de fromage fondu, généralement servi dans un pain moelleux et toasté. Souvent garni de laitue, tomate, cornichons et oignons frais, il est accompagné de condiments tels que ketchup, moutarde et mayonnaise. Le fromage, souvent cheddar, suisse ou américain, ajoute une saveur crémeuse et riche qui sublime le goût fumé et grillé du steak. Des variantes incluent du bacon, des champignons ou de l'avocat pour plus de gourmandise. Plat réconfortant par excellence, le cheeseburger est apprécié dans les diners, chaînes de restauration rapide et barbecues du monde entier."
+  },
+  "card3": {
+    "title": "Vegan Burger",
+    "description": "Un burger vegan sain avec des légumes frais et des galettes végétales",
+    "paragraph": "Un burger vegan est une alternative végétale aux burgers traditionnels à base de viande, conçu pour offrir une expérience savoureuse et satisfaisante. Il contient généralement un steak fabriqué à partir d'ingrédients comme des légumineuses, des haricots, des céréales, des légumes ou des substituts innovants à base de soja ou de protéines de pois. Les burgers vegans sont assaisonnés avec des herbes et des épices pour imiter le goût et la texture de la viande, tout en étant exempts de produits d'origine animale. Souvent servi dans un pain moelleux avec de la laitue fraîche, des tomates, des oignons et des condiments vegans comme de la mayonnaise ou du fromage sans produits laitiers, ce burger est une option délicieuse, sans cruauté et respectueuse de l'environnement pour ceux qui recherchent une alimentation plus saine et durable."
+  },
+  "translations": {
+    "orderNow": "Commander maintenant",
+    "viewDetails": "Voir les détails"
+  },
+  "price": "Prix",
+  "author": "Auteur"
+}

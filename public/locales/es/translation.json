@@ -1,0 +1,25 @@
+{
+  "AppTitle": "Palacio de la Hamburguesa",
+  "CardTitle": "Nuestras Hamburguesas Famosas",
+  "card1": {
+    "title": "Hamburguesa clásica",
+    "description": "Una hamburguesa clásica con lechuga fresca, tomates y queso",
+    "paragraph": "El clásico hamburguesa es un favorito atemporal, conocido por su simple pero satisfactoria combinación de ingredientes. Presenta un jugoso filete de res sazonado, perfectamente asado para sellar sus sabores naturales. Alojado entre un pan suave y tostado, típicamente se acompaña de lechuga crujiente, rodajas de tomate maduro, pepinillos crujientes y finas rodajas de cebolla. Una cucharada de ketchup, mostaza o mayonesa añade un toque de sabor ácido. Algunas variaciones incluyen queso derretido para mayor riqueza. Ya sea en una cafetería, una barbacoa en el jardín o en un restaurante de comida rápida, la clásica hamburguesa es un alimento reconfortante amado universalmente que encarna la deliciosa simplicidad."
+  },
+  "card2": {
+    "title": "Hamburguesa con queso",
+    "description": "Una delicia de queso con queso derretido y hamburguesas jugosas",
+    "paragraph": "Una hamburguesa con queso es un clásico y sabroso sándwich que combina una jugosa carne de res con una rebanada de queso derretido, típicamente servido en un panecillo suave y tostado. A menudo se adorna con ingredientes frescos como lechuga, tomate, pepinillos y cebolla, y se complementa con condimentos como ketchup, mostaza y mayonesa. El queso, generalmente cheddar, suizo o americano, agrega un sabor cremoso y rico que realza el sabor ahumado y asado de la carne. Variaciones opcionales incluyen tocino, champiñones o aguacate para mayor indulgencia. Un alimento reconfortante por excelencia, la hamburguesa con queso es un plato versátil disfrutado en comensales, cadenas de comida rápida y barbacoas en todo el mundo."
+  },
+  "card3": {
+    "title": "Hamburguesa vegana",
+    "description": "Una hamburguesa vegana saludable con verduras frescas y empanadas a base de plantas",
+    "paragraph": "Una hamburguesa vegana es una alternativa basada en plantas a las hamburguesas tradicionales de carne, diseñada para ofrecer una experiencia sabrosa y satisfactoria. Por lo general, presenta una hamburguesa hecha con ingredientes como legumbres, frijoles, granos, verduras o sustitutos innovadores de la carne como la proteína de soya o guisante. Las hamburguesas veganas se sazonan con hierbas y especias para imitar el sabor y la textura de la carne, sin contener productos animales. A menudo se sirven en un pan suave con lechuga fresca, tomate, cebolla y condimentos veganos como mayonesa o queso sin lácteos, siendo una opción deliciosa, libre de crueldad y ecológica para quienes buscan una dieta más saludable y sostenible."
+  },
+  "translations": {
+    "orderNow": "Ordenar ahora",
+    "viewDetails": "Ver detalles"
+  },
+  "price": "Precio",
+  "author": "Autor"
+}

@@ -1,0 +1,73 @@
+.about_card {
+    margin: 30px 110px;
+    display: flex;
+    align-items: center;
+}
+
+.about_card img {
+    width: 400px;
+    height: auto;
+}
+
+.about_card p {
+    font-size: 17px;
+    line-height: 25px;
+    word-spacing: 2px;
+}
+
+.cmgSoon {
+    margin-bottom: 120px;
+}
+
+.cmgSoon h1 {
+    margin: 60px 0 30px 0;
+}
+
+.cmg_cards {
+    margin: 30px 210px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.cmg_card {
+    width: 200px;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.cmg_card img {
+    width: 200px;
+    height: auto;
+}
+
+.cmg_card h3 {
+    text-align: center;
+}
+
+.productz{
+    margin: 40px 0;
+}
+
+.productz h1{
+    margin: 20px 0;
+}
+
+.cardz {
+    padding: 15px;
+    border: 1px solid rgb(204, 203, 203);
+    border-radius: 5px;
+}
+
+.gridz {
+    padding: 0 100px 50px 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}

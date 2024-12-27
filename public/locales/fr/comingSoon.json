@@ -1,0 +1,19 @@
+{
+  "comingSoon": "Bientôt disponible",
+  "pizza": {
+    "title": "Pizza",
+    "description": "La pizza est un plat mondialement apprécié originaire d'Italie, célébrée pour sa polyvalence et ses saveurs irrésistibles. Elle se compose d'une base ronde de pâte levée, traditionnellement garnie d'une couche de sauce tomate, de fromage fondu et d'un éventail de garnitures. Des options classiques telles que le pepperoni, les champignons et les olives aux choix créatifs comme l'ananas, le poulet barbecue ou les alternatives végétaliennes, les pizzas répondent à tous les goûts. Cuites à la perfection, leur croûte varie de fine et croquante à épaisse et moelleuse. Souvent garnie d'herbes comme le basilic ou l'origan, la pizza est un plat réconfortant universellement apprécié, dégusté lors de repas décontractés ou de rassemblements festifs."
+  },
+  "taco": {
+    "title": "Taco",
+    "description": "Les tacos sont un plat populaire mexicain composé d'une tortilla, généralement faite de maïs ou de farine, repliée autour de diverses garnitures. Les garnitures peuvent varier entre viandes assaisonnées comme le bœuf, le poulet ou le porc, et options végétariennes comme les haricots, le fromage et les légumes grillés. Les tacos sont souvent garnis d'ingrédients frais tels que la laitue, les tomates, les oignons, la coriandre et le fromage, accompagnés de salsa ou de sauce épicée pour plus de saveur. Ils sont polyvalents, faciles à emporter et peuvent être appréciés comme un en-cas rapide ou un repas copieux. Les tacos offrent un équilibre de saveurs et de textures, ce qui en fait un plat réconfortant apprécié dans le monde entier."
+  },
+  "shawarma": {
+    "title": "Shawarma",
+    "description": "Le shawarma est un plat populaire du Moyen-Orient préparé à partir de viande assaisonnée, généralement de l'agneau, du poulet ou du bœuf, cuite sur un tournebroche vertical. La viande est marinée dans un mélange d'épices comme l'ail, le cumin, le curcuma et le paprika, lui donnant une saveur riche et savoureuse. Au fur et à mesure de la cuisson, la viande est tranchée finement et servie dans du pain pita ou du pain plat, souvent garnie de légumes frais tels que des tomates, des concombres, des oignons et de la laitue. Le shawarma est généralement accompagné de sauces comme le tahini, la sauce à l'ail ou une sauce épicée, en faisant un plat délicieux, savoureux et satisfaisant apprécié dans le monde entier."
+  },
+  "friedChicken": {
+    "title": "Poulet frit",
+    "description": "Le poulet frit est un plat réconfortant populaire connu pour son extérieur croustillant et doré et sa viande tendre et juteuse à l'intérieur. Le poulet est généralement recouvert d'une pâte ou d'une panure assaisonnée, puis frit à la perfection. La combinaison d'épices, d'herbes et parfois de lait caillé lui confère un goût riche et savoureux. Il peut être dégusté en plat principal, souvent accompagné de garnitures comme de la purée de pommes de terre, de la salade de chou ou des biscuits. Le poulet frit est un plat apprécié dans le monde entier, souvent associé à la cuisine du Sud des États-Unis, mais dégusté sous diverses formes dans différentes cultures, ce qui en fait une friandise polyvalente et indulgente."
+  }
+}

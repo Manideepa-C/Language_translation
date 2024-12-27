@@ -1,0 +1,25 @@
+{
+  "AppTitle": "Burger's Palace",
+  "CardTitle": "Our Famous Burgers",
+  "card1": {
+    "title": "Classic Burger",
+    "description": "A classic burger with fresh lettuce, tomatoes, and cheese",
+    "paragraph": "The classic burger is a timeless favorite, renowned for its simple yet satisfying combination of ingredients. It features a juicy, seasoned beef patty, perfectly grilled to seal in its natural flavors. Nestled between a soft, toasted bun, it is typically accompanied by crisp lettuce, ripe tomato slices, crunchy pickles, and thinly sliced onions. A dollop of ketchup, mustard, or mayonnaise adds a burst of tangy flavor. Some variations include melted cheese for added richness. Whether enjoyed at a diner, a backyard barbecue, or a fast-food joint, the classic burger is a universally beloved comfort food that embodies delicious simplicity."
+  },
+  "card2": {
+    "title": "Cheese Burger",
+    "description": "A cheesy delight with melted cheese and juicy patties",
+    "paragraph": "A cheeseburger is a classic, savory sandwich that combines a juicy beef patty with a slice of melted cheese, typically served on a soft, toasted bun. Often garnished with fresh toppings like lettuce, tomato, pickles, and onions, it’s complemented by condiments such as ketchup, mustard, and mayonnaise. The cheese, usually cheddar, Swiss, or American, adds a creamy, rich flavor that enhances the patty’s smoky, grilled taste. Optional variations include bacon, mushrooms, or avocado for added indulgence. A quintessential comfort food, the cheeseburger is a versatile dish enjoyed at diners, fast-food chains, and backyard barbecues worldwide."
+  },
+  "card3": {
+    "title": "Vegan Burger",
+    "description": "A healthy vegan burger with fresh vegetables and plant-based patties",
+    "paragraph": "A vegan burger is a plant-based alternative to traditional meat burgers, crafted to provide a flavorful and satisfying experience. It typically features a patty made from ingredients like legumes, beans, grains, vegetables, or innovative meat substitutes such as soy or pea protein. Vegan burgers are seasoned with herbs and spices to mimic the taste and texture of meat, while being free from animal products. Often served on a soft bun with fresh lettuce, tomato, onions, and vegan condiments like dairy-free mayonnaise or cheese, these burgers are a delicious, cruelty-free, and eco-friendly option for those seeking a healthier, sustainable diet."
+  },
+  "translations": {
+    "orderNow": "Order Now",
+    "viewDetails": "View Details"
+  },
+  "price": "Price",
+  "author": "Author"
+}

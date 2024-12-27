@@ -1,0 +1,19 @@
+{
+  "comingSoon": "Coming Soon",
+  "pizza": {
+    "title": "Pizza",
+    "description" : "Pizza is a beloved global dish originating from Italy, celebrated for its versatility and irresistible flavors. It consists of a flat, round base made from leavened dough, traditionally topped with a layer of tomato sauce, melted cheese, and an array of toppings. From classic options like pepperoni, mushrooms, and olives to creative choices like pineapple, barbecue chicken, or vegan alternatives, pizzas cater to diverse palates. Baked to perfection, its crust ranges from thin and crispy to thick and fluffy. Often garnished with herbs like basil or oregano, pizza is a universally cherished comfort food, enjoyed in casual meals or festive gatherings."
+  },
+  "taco": {
+    "title": "Taco",
+    "description": "Tacos are a popular Mexican dish consisting of a tortilla, typically made from corn or flour, folded around a variety of fillings. The fillings can range from seasoned meats like beef, chicken, or pork, to vegetarian options such as beans, cheese, and grilled vegetables. Tacos are often topped with fresh ingredients like lettuce, tomatoes, onions, cilantro, and cheese, along with salsa or hot sauce for added flavor. They are versatile, portable, and can be enjoyed as a quick snack or a hearty meal. Tacos offer a balance of flavors and textures, making them a beloved comfort food worldwide."
+  },
+  "shawarma": {
+    "title": "Shawarma",
+    "description": "Shawarma is a popular Middle Eastern dish made from seasoned meat, typically lamb, chicken, or beef, cooked on a vertical rotisserie. The meat is marinated in a blend of spices such as garlic, cumin, turmeric, and paprika, giving it a rich, savory flavor. As the meat cooks, it is thinly sliced and served in pita or flatbread, often topped with fresh vegetables like tomatoes, cucumbers, onions, and lettuce. Shawarma is usually accompanied by sauces like tahini, garlic sauce, or hot sauce, making it a delicious, flavorful, and satisfying street food enjoyed worldwide."
+  },
+  "friedChicken": {
+    "title": "Fried Chicken",
+    "description": "Fried chicken is a popular comfort food known for its crispy, golden-brown exterior and tender, juicy meat inside. The chicken is typically coated in a seasoned batter or breading, then deep-fried to perfection. The combination of spices, herbs, and sometimes buttermilk gives it a rich, flavorful taste. It can be enjoyed as a main dish, often served with sides like mashed potatoes, coleslaw, or biscuits. Fried chicken is a beloved dish worldwide, commonly associated with Southern cuisine in the United States but enjoyed in various forms across cultures, making it a versatile and indulgent treat."
+  }
+}

@@ -1,0 +1,35 @@
+.footer {
+    height: 40px;
+    background-color: rgb(248, 241, 231);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.2) 4px 4px 12px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    color: rgb(0, 0, 0);
+}
+
+.footer_item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.footer_item .title {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footicon {
+    width: 25px;
+    height: auto;
+}

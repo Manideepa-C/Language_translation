@@ -1,0 +1,20 @@
+{
+    "comingSoon": "Kommt bald",
+    "pizza": {
+      "title": "Pizza",
+      "description": "Pizza ist ein beliebtes Gericht, das ursprünglich aus Italien stammt und für seine Vielseitigkeit und unwiderstehlichen Aromen gefeiert wird. Es besteht aus einem flachen, runden Boden aus Hefeteig, der traditionell mit einer Schicht Tomatensauce, geschmolzenem Käse und einer Vielzahl von Belägen belegt wird. Von klassischen Optionen wie Peperoni, Pilzen und Oliven bis hin zu kreativen Wahlmöglichkeiten wie Ananas, Barbecue-Hähnchen oder veganen Alternativen deckt Pizza eine Vielzahl von Geschmäckern ab. Sie wird perfekt gebacken, der Rand reicht von dünn und knusprig bis dick und fluffig. Oft mit Kräutern wie Basilikum oder Oregano garniert, ist Pizza ein weltweit geschätztes Komfortgericht, das sowohl bei alltäglichen Mahlzeiten als auch bei festlichen Zusammenkünften genossen wird."
+    },
+    "taco": {
+      "title": "Taco",
+      "description": "Tacos sind ein beliebtes mexikanisches Gericht, das aus einer Tortilla besteht, die typischerweise aus Mais oder Weizen hergestellt wird und um eine Vielzahl von Füllungen gewickelt wird. Die Füllungen können von gewürztem Fleisch wie Rindfleisch, Hähnchen oder Schweinefleisch bis hin zu vegetarischen Optionen wie Bohnen, Käse und gegrilltem Gemüse reichen. Tacos werden oft mit frischen Zutaten wie Salat, Tomaten, Zwiebeln, Koriander und Käse sowie Salsa oder scharfer Soße für zusätzlichen Geschmack belegt. Sie sind vielseitig, tragbar und können als schneller Snack oder herzhaftes Mahlzeit genossen werden. Tacos bieten ein Gleichgewicht von Aromen und Texturen und sind weltweit ein beliebtes Komfortgericht."
+    },
+    "shawarma": {
+      "title": "Shawarma",
+      "description": "Shawarma ist ein beliebtes Gericht aus dem Nahen Osten, das aus gewürztem Fleisch besteht, typischerweise Lamm, Hähnchen oder Rind, das auf einem vertikalen Drehspieß gegart wird. Das Fleisch wird in einer Mischung aus Gewürzen wie Knoblauch, Kreuzkümmel, Kurkuma und Paprika mariniert, was ihm einen reichen, herzhaften Geschmack verleiht. Während das Fleisch gart, wird es dünn geschnitten und in Pita oder Fladenbrot serviert, oft mit frischem Gemüse wie Tomaten, Gurken, Zwiebeln und Salat belegt. Shawarma wird normalerweise mit Saucen wie Tahini, Knoblauchsoße oder scharfer Soße serviert, was es zu einem köstlichen, aromatischen und sättigenden Street Food macht, das weltweit genossen wird."
+    },
+    "friedChicken": {
+      "title": "Fried Chicken",
+      "description": "Fried Chicken ist ein beliebtes Komfortgericht, das für seine knusprige, goldbraune Außenhülle und das zarte, saftige Fleisch im Inneren bekannt ist. Das Hähnchen wird typischerweise in einem gewürzten Teig oder Paniermehl gewälzt und dann perfekt frittiert. Die Kombination aus Gewürzen, Kräutern und manchmal Buttermilch verleiht ihm einen reichen, schmackhaften Geschmack. Es kann als Hauptgericht genossen werden, oft serviert mit Beilagen wie Kartoffelpüree, Krautsalat oder Brötchen. Fried Chicken ist weltweit ein beliebtes Gericht, das häufig mit der Südstaatenküche in den USA in Verbindung gebracht wird, aber in verschiedenen Formen in verschiedenen Kulturen genossen wird, was es zu einem vielseitigen und genussvollen Genuss macht."
+    }
+  }
+  

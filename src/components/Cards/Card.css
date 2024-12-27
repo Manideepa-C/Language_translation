@@ -1,0 +1,58 @@
+h1{
+  margin: 0px 100px;
+  text-align: center;
+}
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 30px 100px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  width: 330px;
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.card .cardImg {
+  width: 330px;
+  height: 300px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.card img{
+  width: 330px;
+}
+
+.card h2 {
+  font-size: 1.5rem;
+  margin: 10px 0;
+  color: #333;
+}
+
+.card p {
+  color: #333;
+  font-size: 1rem;
+  margin-bottom: 30px;
+}
+
+.card .buttons button {
+  font-size: 16px;
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: blue;
+  color: #fff;
+}
+
+.card .buttons button:hover {
+  background-color: red;
+  color: #fff;
+}

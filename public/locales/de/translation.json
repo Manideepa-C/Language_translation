@@ -1,0 +1,25 @@
+{
+  "AppTitle": "Burger's Palast",
+  "CardTitle": "Unsere berühmten Burger",
+  "card1": {
+    "title": "Klassischer Burger",
+    "description": "Ein klassischer Burger mit frischem Salat, Tomaten und Käse",
+    "paragraph": "Der klassische Burger ist ein zeitloser Favorit, bekannt für seine einfache, aber befriedigende Kombination von Zutaten. Er besteht aus einem saftigen, gewürzten Rindfleischpatty, das perfekt gegrillt wird, um seinen natürlichen Geschmack zu versiegeln. Zwischen einem weichen, gerösteten Brötchen liegt er meist zusammen mit knusprigem Salat, reifen Tomatenscheiben, knackigen Gurken und dünn geschnittenen Zwiebeln. Ein Klecks Ketchup, Senf oder Mayonnaise sorgt für einen Hauch von Säure. Einige Varianten beinhalten geschmolzenen Käse für zusätzlichen Reichtum. Ob im Diner, beim Grillen im Garten oder in einem Fast-Food-Restaurant, der klassische Burger ist ein weltweit beliebtes Komfortgericht, das köstliche Einfachheit verkörpert."
+  },
+  "card2": {
+    "title": "Käseburger",
+    "description": "Ein käsiger Genuss mit geschmolzenem Käse und saftigen Patties",
+    "paragraph": "Der Cheeseburger ist ein klassisches, herzhaftes Sandwich, das ein saftiges Rindfleischpatty mit einer Scheibe geschmolzenem Käse kombiniert, normalerweise serviert auf einem weichen, gerösteten Brötchen. Oft garniert mit frischen Zutaten wie Salat, Tomaten, Gurken und Zwiebeln, wird er mit Ketchup, Senf und Mayonnaise ergänzt. Der Käse, meist Cheddar, Schweizer oder amerikanischer Käse, verleiht einen cremigen, reichen Geschmack, der den rauchigen, gegrillten Geschmack des Patties verstärkt. Optionale Variationen umfassen Speck, Pilze oder Avocado für zusätzlichen Genuss. Ein klassisches Komfortgericht, der Cheeseburger ist ein vielseitiges Gericht, das in Diners, Fast-Food-Ketten und Gartenbarbecues weltweit genossen wird."
+  },
+  "card3": {
+    "title": "Veganer Burger",
+    "description": "Ein gesunder veganer Burger mit frischem Gemüse und pflanzlichen Patties",
+    "paragraph": "Ein veganer Burger ist eine pflanzliche Alternative zu traditionellen Fleischburgern, die darauf ausgelegt ist, ein schmackhaftes und zufriedenstellendes Erlebnis zu bieten. Er besteht normalerweise aus einem Patty, das aus Zutaten wie Hülsenfrüchten, Bohnen, Getreide, Gemüse oder innovativen Fleischalternativen wie Soja- oder Erbsenprotein hergestellt wird. Vegane Burger werden mit Kräutern und Gewürzen gewürzt, um den Geschmack und die Textur von Fleisch nachzuahmen, wobei sie frei von tierischen Produkten sind. Häufig wird er auf einem weichen Brötchen mit frischem Salat, Tomaten, Zwiebeln und veganen Gewürzen wie milchfreier Mayonnaise oder Käse serviert. Diese Burger sind eine köstliche, tierversuchsfreie und umweltfreundliche Option für alle, die eine gesündere, nachhaltigere Ernährung suchen."
+  },
+  "translations": {
+    "orderNow": "Jetzt bestellen",
+    "viewDetails": "Details anzeigen"
+  },
+  "price": "Preis",
+  "author": "Autor"
+}

@@ -1,0 +1,25 @@
+{
+  "AppTitle": "Palatium Burgers",
+  "CardTitle": "Burgers Nostrae Celebres",
+  "card1": {
+    "title": "Burger Classicus",
+    "description": "Burger classicus cum lactuca recens, lycopersico et caseo",
+    "paragraph": "Burger classicus est carissimus pervagus, ob simplicem sed satisfaciens combinationem ingredientium. Constat ex carne bovis assata, bene conditum ad naturales sapores servandos. Inter panem mollibus, tostato, ponitur, plerumque cum lactuca crispissima, lycopersico maturato, cucumis acuto, et cepa tenuissime secata. Modicum ketchup, mustarda, aut mayonnaise saporem acutum adicit. Aliquae variationes includunt caseum liquefactum ad saporem ditandum. Sive in popina, sive in latrina acervo, sive in popina celeriter, burger classicus est universale comfortum ferculum quod simplicitatem deliciosam repraesentat."
+  },
+  "card2": {
+    "title": "Cheese Burger",
+    "description": "Delicia caseosa cum caseo liquefacto et carnibus succosis",
+    "paragraph": "Cheeseburger est classicus, salsus panis qui patty bovis succosi cum frusto caseo liquefacto combinat, plerumque in pane molli, tostato servitur. Saepe decoratur cum ingredientibus recentibus ut lactuca, lycopersico, cucumis, et cepis, et complementatur condimento sicut ketchup, mustarda, et mayonnaise. Caseus, plerumque cheddar, Swiss, aut Americanus, saporem cremosum et divitem addit, qui saporem fumosum et assatum patty amplificat. Variations optionales includunt bacon, fungi, aut avocado ad indulgentiam augendam. Cheeseburger, comfortum ferculum praecipuum, est ferculum versatile quod in popinis, celeriter cibis catenae, et latrinis acervorum per orbem fruendum est."
+  },
+  "card3": {
+    "title": "Vegan Burger",
+    "description": "Saluber vegan burger cum leguminibus recentibus et patties ex plantis factis",
+    "paragraph": "Vegan burger est plantarum alternatio ad burgers carnium traditionalium, confectus ad praebendum gustum et experientiam satisfaciens. Plerumque constare ex patty factum ex leguminibus, fabae, frumenta, leguminibus, vel substitutis carnium sicut soya vel proteina pisum. Vegan burgers conditur cum herbis et aromatibus ad gustum et texturam carnium imitandum, dum a productis animalibus carent. Saepe in pane molli cum lactuca recens, lycopersico, cepa et condimentis vegan sicut mayonnaise sine lacte aut caseo, hi burgers sunt optio deliciosa, sine crudelitate, et amica naturae pro iis qui sanam et sustinabilem vitam quaerunt."
+  },
+  "translations": {
+    "orderNow": "Ordina Nunc",
+    "viewDetails": "Videre Details"
+  },
+  "price": "Pretium",
+  "author": "Auctor"
+}
